@@ -7,8 +7,8 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://studin.jamesEphelps.com"><img width="100" src="https://studin.jamesephelps.com/images/studinPNGWhite.png" /></a>
-      <h3><a href="https://studin.jamesEphelps.com">Studin: Student Dining Web App</a></h3>
+      <a href="https://jamesEphelps.com/studin"><img width="100" src="https://studin.jamesephelps.com/images/studinPNGWhite.png" /></a>
+      <h3><a href="https://jamesEphelps.com/studin">Studin: Student Dining Web App</a></h3>
       Web app for students to find free food on BYU campus. RESTful API, ReactJS, NodeJS, HTML, CSS, Websocket, Google Maps API, MongoDB
     </td>
     <td>
