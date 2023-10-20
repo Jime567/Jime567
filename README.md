@@ -9,7 +9,7 @@
     <td>
       <a href="https://studin.jamesEphelps.com"><img width="100" src="https://studin.jamesephelps.com/images/studinPNGWhite.png" /></a>
       <h3><a href="https://studin.jamesEphelps.com">Studin: Student Dining Web App</a></h3>
-      Web app for students to find free food on BYU campus. RESTful API, ReactJS, NodeJS, HTML, CSS, WEbsocket, Google Maps API, MongoDB
+      Web app for students to find free food on BYU campus. RESTful API, ReactJS, NodeJS, HTML, CSS, Websocket, Google Maps API, MongoDB
     </td>
     <td>
      <a href="https://jamesEphelps.com/meech"><img width="50" src="https://jamesephelps.com/wp-content/uploads/2022/11/MeechBlueBack.png.webp" /></a>
@@ -25,7 +25,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <h3 align="left">Current Tech Stack:</h3>
