@@ -3,14 +3,13 @@
 <h3 align="center">A Software Engineer currently studying at BYU</h3>
 <h2></h2>
 - 👨‍💻 Personal website and projects at <a href="https://jamesEphelps.com"> jamesEphelps.com </a>
-
-<a href="https://jamesEphelps.com/projects"><h2>Recent Projects</h2></a>
+<h2><a href="https://jamesEphelps.com/projects">Recent Projects</h2></a>
 <table border="0">
   <tr>
     <td>
       <a href="https://studin.jamesEphelps.com"><img width="100" src="https://studin.jamesephelps.com/images/studinPNGWhite.png" /></a>
       <h3><a href="https://studin.jamesEphelps.com">Studin: Student Dining Web App</a></h3>
-      Web app for students to find free food on BYU campus. ReactJS, NodeJS, HTML, CSS, WEbsocket, Google Maps API, MongoDB
+      Web app for students to find free food on BYU campus. RESTful API, ReactJS, NodeJS, HTML, CSS, WEbsocket, Google Maps API, MongoDB
     </td>
     <td>
      <a href="https://jamesEphelps.com/meech"><img width="50" src="https://jamesephelps.com/wp-content/uploads/2022/11/MeechBlueBack.png.webp" /></a>
