@@ -1,8 +1,8 @@
 
-<div style="display:flex" ><h1 align="center" style="float:left">Hi 👋, I'm James Phelps</h1> <img align="left" src="https://jamesephelps.com/wp-content/uploads/2023/06/JPLogo1-300x280.png" width="50" height="50"/><a href="https://linkedin.com/in/james-e-phelps" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-e-phelps" height="50" width="50" /></a></div>
+<div style="display:flex" ><h1 align="center" style="float:left">Hi 👋, I'm James Phelps</h1> <img align="left" href="https://jamesEphelps.com" src="https://jamesephelps.com/wp-content/uploads/2023/06/JPLogo1-300x280.png" width="50" height="50"/><a href="https://linkedin.com/in/james-e-phelps" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-e-phelps" height="50" width="50" /></a></div>
 <h3 align="center">A Software Engineer currently studying at BYU</h3>
 <h2></h2>
-- 👨‍💻 Personal website and projects at <a href="jamesEphelps.com"> jamesEphelps.com </a>
+- 👨‍💻 Personal website and projects at <a href="https://jamesEphelps.com"> jamesEphelps.com </a>
 
 
 
