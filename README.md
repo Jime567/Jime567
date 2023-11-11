@@ -23,7 +23,11 @@
       <h3><a href="https://jamesEphelps.com/absorb">Absorb: Flashcards Web App</a></h3>
       Web app for learning sets of flashcards with multiple choice and write in questions. Javascript, HTML, CSS, Firebase Authentication and Realtime Storage
     </td>
+    <td>
+      <p><img width="100%" align="center" src="https://gitLangs.jamesephelps.com/top-langs?username=jime567&theme=blue-green&layout=compact" /></p>
+    </td>
   </tr>
+  
 </table>
 
 
