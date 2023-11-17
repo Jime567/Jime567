@@ -24,7 +24,7 @@
       Web app for learning sets of flashcards with multiple choice and write in questions. Javascript, HTML, CSS, Firebase Authentication and Realtime Storage
     </td>
     <td>
-      <p><img width="100%" height="100%" align="center" src="https://gitLangs.jamesephelps.com/top-langs?username=jime567&theme=blue-green&border_color=48f000&layout=compact&exclude_repo=[CS-111]&custom_title=My%20Languages" /></p>
+      <p><img width="100%" height="100%" align="center" src="https://gitLangs.jamesephelps.com/top-langs?username=jime567&theme=blue-green&border_color=48f000&layout=compact&exclude_repo=CS-111&hide=CMake&custom_title=My%20Languages" /></p>
     </td>
   </tr>
   
